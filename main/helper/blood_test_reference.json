@@ -1,0 +1,105 @@
+{
+    "blood_test_parameters": [
+        {
+            "test_name": "Hemoglobin (Hb)",
+            "normal_range": {
+                "men": "13.8-17.2 g/dL",
+                "women": "12.1-15.1 g/dL"
+            },
+            "low_range": {
+                "description": "Below normal: May indicate anemia or nutritional deficiencies.",
+                "recommendation": "Consider iron-rich diet or supplementation."
+            },
+            "high_range": {
+                "description": "Above normal: May indicate dehydration, lung disease, or heart disease.",
+                "recommendation": "Stay hydrated and check oxygen levels."
+            }
+        },
+        {
+            "test_name": "White Blood Cell Count (WBC)",
+            "normal_range": {
+                "all": "4.0-11.0 x10^9/L"
+            },
+            "low_range": {
+                "description": "Below normal: May indicate immune suppression or bone marrow disorders.",
+                "recommendation": "Seek medical consultation."
+            },
+            "high_range": {
+                "description": "Above normal: Possible infection, inflammation, or blood disorders.",
+                "recommendation": "Follow up with a doctor."
+            }
+        },
+        {
+            "test_name": "Red Blood Cell Count (RBC)",
+            "normal_range": {
+                "men": "4.7-6.1 x10^12/L",
+                "women": "4.2-5.4 x10^12/L"
+            },
+            "low_range": {
+                "description": "Below normal: Possible anemia or blood loss.",
+                "recommendation": "Check iron and vitamin levels."
+            },
+            "high_range": {
+                "description": "Above normal: May indicate dehydration, lung disease, or bone marrow disorders.",
+                "recommendation": "Monitor hydration and oxygen."
+            }
+        },
+        {
+            "test_name": "Platelet Count (PLT)",
+            "normal_range": {
+                "all": "150-450 x10^9/L"
+            },
+            "low_range": {
+                "description": "Below normal: May indicate bleeding disorders or bone marrow suppression.",
+                "recommendation": "Consult a doctor."
+            },
+            "high_range": {
+                "description": "Above normal: May indicate clotting disorders, inflammation, or malignancies.",
+                "recommendation": "Medical review required."
+            }
+        },
+        {
+            "test_name": "Hematocrit (HCT)",
+            "normal_range": {
+                "men": "38.3-48.6%",
+                "women": "35.5-44.9%"
+            },
+            "low_range": {
+                "description": "Below normal: May indicate anemia or chronic disease.",
+                "recommendation": "Further tests may be needed."
+            },
+            "high_range": {
+                "description": "Above normal: Could be due to dehydration or polycythemia.",
+                "recommendation": "Maintain hydration and check blood viscosity."
+            }
+        },
+        {
+            "test_name": "Mean Corpuscular Volume (MCV)",
+            "normal_range": {
+                "all": "80-100 fL"
+            },
+            "low_range": {
+                "description": "Below normal: Suggests microcytic anemia or iron deficiency.",
+                "recommendation": "Diet modification recommended."
+            },
+            "high_range": {
+                "description": "Above normal: Macrocytosis linked to vitamin B12 or folate deficiency.",
+                "recommendation": "Consider dietary evaluation."
+            }
+        },
+        {
+            "test_name": "Mean Corpuscular Hemoglobin (MCH)",
+            "normal_range": {
+                "all": "27-31 pg"
+            },
+            "low_range": {
+                "description": "Below normal: Possible iron deficiency or chronic disease.",
+                "recommendation": "Consider medical advice."
+            },
+            "high_range": {
+                "description": "Above normal: Macrocytic anemia or liver disease potential.",
+                "recommendation": "Check liver function and vitamins."
+            }
+        }
+    ]
+} 

@@ -1,0 +1,25 @@
+Medical Diagnostic Center
+Comprehensive Sugar Test Report
+Patient Information
+Name: John Doe
+Age: 45
+Gender: Male
+Date of Test: 28-Apr-2025
+Test Results
+Test	Result Reference Range
+Fasting Blood Sugar (FBS)	88.5 mg/dL 70 - 99 mg/dL
+Postprandial Blood Sugar (PPBS)	155.7 mg/dL < 140 mg/dL
+Random Blood Sugar (RBS)	142.3 mg/dL 70 - 140 mg/dL
+HbA1c Level	5.8 %	4% - 5.6%
+Health Interpretation & Doctor's Notes
+Interpretation:
+- FBS is within the normal range.
+- PPBS is moderately elevated, suggesting impaired glucose tolerance.
+- RBS is slightly above normal.
+- HbA1c indicates a prediabetic state.
+Recommendations:
+- Adopt a balanced diet with reduced sugar intake.
+- Engage in regular aerobic exercise.
+- Schedule a follow-up blood test in 3 months.
+- Consult an endocrinologist if necessary.
+Page 1

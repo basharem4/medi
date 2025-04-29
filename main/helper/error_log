@@ -1,0 +1,986 @@
+[16-Mar-2025 01:34:32 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 01:34:32 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpiSpuQT
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 01:34:32 UTC] Test type received: Blood Test
+[16-Mar-2025 01:34:54 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 01:34:54 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpsidcj0
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 01:34:54 UTC] Test type received: Blood Test
+[16-Mar-2025 01:38:34 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 01:38:34 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php65wh1I
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 01:38:34 UTC] Test type received: Blood Test
+[16-Mar-2025 01:48:40 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 01:48:40 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phplO0q8M
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[16-Mar-2025 01:48:40 UTC] Test type received: Sugar Test
+[16-Mar-2025 01:58:37 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 01:58:37 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpcwGN0V
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 01:58:37 UTC] Test type received: Blood Test
+[16-Mar-2025 07:57:13 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 07:57:13 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood_medical_test.pdf
+            [full_path] => blood_medical_test.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpWgMnXB
+            [error] => 0
+            [size] => 1804
+        )
+
+)
+
+[16-Mar-2025 07:57:13 UTC] Test type received: Blood Test
+[16-Mar-2025 07:57:13 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[16-Mar-2025 07:59:37 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 07:59:37 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood_medical_test.pdf
+            [full_path] => blood_medical_test.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpBUA8if
+            [error] => 0
+            [size] => 1804
+        )
+
+)
+
+[16-Mar-2025 07:59:37 UTC] Test type received: Blood Test
+[16-Mar-2025 07:59:37 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[16-Mar-2025 08:00:09 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 08:00:09 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => sugar_medical_test.pdf
+            [full_path] => sugar_medical_test.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpCrO53l
+            [error] => 0
+            [size] => 1690
+        )
+
+)
+
+[16-Mar-2025 08:00:09 UTC] Test type received: Sugar Test
+[16-Mar-2025 08:00:09 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[16-Mar-2025 13:21:16 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:21:16 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpDEGYs9
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:21:16 UTC] Test type received: Blood Test
+[16-Mar-2025 13:25:49 UTC] POST data received: Array
+(
+)
+
+[16-Mar-2025 13:25:49 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpOHXUDf
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:25:49 UTC] Error in analyze_test.php: Test type not specified
+[16-Mar-2025 13:26:02 UTC] POST data received: Array
+(
+)
+
+[16-Mar-2025 13:26:02 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpfcjvfB
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:26:02 UTC] Error in analyze_test.php: Test type not specified
+[16-Mar-2025 13:26:34 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:26:34 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpPDGw2B
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:26:34 UTC] Test type received: Blood Test
+[16-Mar-2025 13:31:01 UTC] POST data received: Array
+(
+)
+
+[16-Mar-2025 13:31:01 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php1j4G2t
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:31:01 UTC] Error in analyze_test.php: Test type not specified
+[16-Mar-2025 13:31:30 UTC] POST data received: Array
+(
+)
+
+[16-Mar-2025 13:31:30 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpsbJTSN
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 13:31:30 UTC] Error in analyze_test.php: Test type not specified
+[16-Mar-2025 13:31:59 UTC] POST data received: Array
+(
+)
+
+[16-Mar-2025 13:31:59 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpafUMEw
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:31:59 UTC] Error in analyze_test.php: Test type not specified
+[16-Mar-2025 13:32:03 UTC] POST data received: Array
+(
+)
+
+[16-Mar-2025 13:32:03 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phplWa5pM
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[16-Mar-2025 13:32:03 UTC] Error in analyze_test.php: Test type not specified
+[16-Mar-2025 13:32:22 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:32:22 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php8gJnas
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 13:32:22 UTC] Test type received: Blood Test
+[16-Mar-2025 13:34:18 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:34:18 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpz7g7YC
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:34:18 UTC] Test type received: Blood Test
+[16-Mar-2025 13:34:35 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:34:35 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpDybxml
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:34:35 UTC] Test type received: Blood Test
+[16-Mar-2025 13:38:45 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:38:45 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpsFkGBd
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 13:38:45 UTC] Test type received: Blood Test
+[16-Mar-2025 13:40:35 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 13:40:35 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php2CfOsu
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[16-Mar-2025 13:40:35 UTC] Test type received: Sugar Test
+[16-Mar-2025 13:45:55 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 13:45:55 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpYGJeGt
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[16-Mar-2025 13:45:55 UTC] Test type received: Sugar Test
+[16-Mar-2025 13:47:35 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:47:35 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpcCooeU
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 13:47:35 UTC] Test type received: Blood Test
+[16-Mar-2025 13:47:45 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:47:45 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php3U6nmy
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 13:47:45 UTC] Test type received: Blood Test
+[16-Mar-2025 13:47:56 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 13:47:56 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => sugar_medical_test.pdf
+            [full_path] => sugar_medical_test.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpabmBrF
+            [error] => 0
+            [size] => 1690
+        )
+
+)
+
+[16-Mar-2025 13:47:56 UTC] Test type received: Sugar Test
+[16-Mar-2025 13:47:56 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[16-Mar-2025 13:49:42 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 13:49:42 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php8zkgre
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 13:49:42 UTC] Test type received: Blood Test
+[16-Mar-2025 14:00:13 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 14:00:13 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpQs5QyP
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 14:00:13 UTC] Test type received: Blood Test
+[16-Mar-2025 14:00:40 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 14:00:40 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpPvrJVp
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[16-Mar-2025 14:00:40 UTC] Test type received: Blood Test
+[16-Mar-2025 14:01:47 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 14:01:47 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php5ngPOx
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 14:01:47 UTC] Test type received: Blood Test
+[16-Mar-2025 14:04:28 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 14:04:28 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php59M33w
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 14:04:28 UTC] Test type received: Blood Test
+[16-Mar-2025 14:04:35 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 14:04:35 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpUjEc2p
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[16-Mar-2025 14:04:35 UTC] Test type received: Sugar Test
+[16-Mar-2025 16:55:12 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 16:55:12 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood_medical_test.pdf
+            [full_path] => blood_medical_test.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpicmIGT
+            [error] => 0
+            [size] => 1804
+        )
+
+)
+
+[16-Mar-2025 16:55:12 UTC] Test type received: Blood Test
+[16-Mar-2025 16:55:12 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[16-Mar-2025 16:55:25 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 16:55:25 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood_medical_test.pdf
+            [full_path] => blood_medical_test.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phppJvz7K
+            [error] => 0
+            [size] => 1804
+        )
+
+)
+
+[16-Mar-2025 16:55:25 UTC] Test type received: Blood Test
+[16-Mar-2025 16:55:25 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[16-Mar-2025 16:56:36 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 16:56:36 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => test blood.png
+            [full_path] => test blood.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpWtfKBI
+            [error] => 0
+            [size] => 37595
+        )
+
+)
+
+[16-Mar-2025 16:56:36 UTC] Test type received: Blood Test
+[16-Mar-2025 16:56:36 UTC] Error in analyze_test.php: Invalid file type. Only PDF files are allowed
+[16-Mar-2025 16:56:59 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 16:56:59 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => test blood.png
+            [full_path] => test blood.png
+            [type] => image/png
+            [tmp_name] => /tmp/phprhcPDs
+            [error] => 0
+            [size] => 37595
+        )
+
+)
+
+[16-Mar-2025 16:56:59 UTC] Test type received: Blood Test
+[16-Mar-2025 16:56:59 UTC] Error in analyze_test.php: Invalid file type. Only PDF files are allowed
+[16-Mar-2025 17:25:21 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 17:25:21 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpbyuZpE
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 17:25:21 UTC] Test type received: Blood Test
+[16-Mar-2025 17:26:11 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[16-Mar-2025 17:26:11 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpe9fH77
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[16-Mar-2025 17:26:11 UTC] Test type received: Sugar Test
+[16-Mar-2025 19:08:17 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[16-Mar-2025 19:08:17 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpbTXLxV
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[16-Mar-2025 19:08:17 UTC] Test type received: Blood Test
+[19-Mar-2025 19:17:27 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[19-Mar-2025 19:17:27 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => fixed_blood_test_report.pdf
+            [full_path] => fixed_blood_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpgZyJLu
+            [error] => 0
+            [size] => 1771
+        )
+
+)
+
+[19-Mar-2025 19:17:27 UTC] Test type received: Blood Test
+[19-Mar-2025 19:17:59 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[19-Mar-2025 19:17:59 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpilAHpr
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[19-Mar-2025 19:17:59 UTC] Test type received: Blood Test
+[19-Mar-2025 19:17:59 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[19-Mar-2025 19:18:07 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[19-Mar-2025 19:18:07 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpjlS1mc
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[19-Mar-2025 19:18:07 UTC] Test type received: Blood Test
+[19-Mar-2025 20:04:23 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[19-Mar-2025 20:04:23 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood1.pdf
+            [full_path] => blood1.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpNKg2Kg
+            [error] => 0
+            [size] => 86281
+        )
+
+)
+
+[19-Mar-2025 20:04:23 UTC] Test type received: Blood Test
+[19-Mar-2025 20:05:36 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[19-Mar-2025 20:05:36 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpV77yph
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[19-Mar-2025 20:05:36 UTC] Test type received: Sugar Test
+[27-Mar-2025 00:44:44 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[27-Mar-2025 00:44:44 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpRXfxdo
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[27-Mar-2025 00:44:44 UTC] Test type received: Blood Test
+[27-Mar-2025 00:44:44 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[27-Mar-2025 00:44:57 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[27-Mar-2025 00:44:57 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phph3pa7S
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[27-Mar-2025 00:44:57 UTC] Test type received: Sugar Test
+[27-Mar-2025 00:47:52 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[27-Mar-2025 00:47:52 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report.pdf
+            [full_path] => ill_sugar_test_report.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpVcRf8V
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[27-Mar-2025 00:47:52 UTC] Test type received: Blood Test
+[27-Mar-2025 00:47:52 UTC] Error in analyze_test.php: Error parsing PDF: No test values could be extracted from the PDF
+[27-Mar-2025 00:49:05 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[27-Mar-2025 00:49:05 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => IMG_6525.png
+            [full_path] => IMG_6525.png
+            [type] => image/png
+            [tmp_name] => /tmp/phpOCH6Dl
+            [error] => 0
+            [size] => 214880
+        )
+
+)
+
+[27-Mar-2025 00:49:05 UTC] Test type received: Sugar Test
+[27-Mar-2025 00:49:05 UTC] Error in analyze_test.php: Invalid file type. Only PDF files are allowed
+[15-Apr-2025 17:29:40 UTC] POST data received: Array
+(
+    [test_type] => Sugar Test
+)
+
+[15-Apr-2025 17:29:40 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => ill_sugar_test_report (1).pdf
+            [full_path] => ill_sugar_test_report (1).pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/php6Ve8a3
+            [error] => 0
+            [size] => 1676
+        )
+
+)
+
+[15-Apr-2025 17:29:40 UTC] Test type received: Sugar Test
+[15-Apr-2025 17:35:39 UTC] POST data received: Array
+(
+    [test_type] => Blood Test
+)
+
+[15-Apr-2025 17:35:39 UTC] FILES data received: Array
+(
+    [file] => Array
+        (
+            [name] => blood_test_report_final.pdf
+            [full_path] => blood_test_report_final.pdf
+            [type] => application/pdf
+            [tmp_name] => /tmp/phpnHTowZ
+            [error] => 0
+            [size] => 1448
+        )
+
+)
+
+[15-Apr-2025 17:35:39 UTC] Test type received: Blood Test

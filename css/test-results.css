@@ -1,0 +1,98 @@
+/* Custom styles for test results */
+
+.results-container {
+    max-width: 100%;
+}
+
+.test-result.card {
+    transition: all 0.3s ease;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.test-result.card:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+}
+
+.test-result .card-header {
+    font-weight: bold;
+    padding: 12px 15px;
+}
+
+.test-result .card-body {
+    padding: 15px;
+}
+
+.results-summary .card {
+    border-radius: 10px;
+    transition: all 0.3s ease;
+}
+
+.results-summary .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.results-summary .display-4 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.report-header {
+    padding-bottom: 15px;
+}
+
+.report-footer {
+    margin-top: 30px;
+    padding-top: 15px;
+}
+
+
+/* Modal customization */
+
+.modal-content {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.modal-header {
+    padding: 15px 20px;
+}
+
+.modal-body {
+    padding: 20px;
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+.modal-footer {
+    padding: 15px 20px;
+    border-top: 1px solid #eee;
+}
+
+
+/* Print styles */
+
+@media print {
+    body {
+        background-color: white;
+    }
+    .container {
+        width: 100%;
+        max-width: 100%;
+    }
+    .card {
+        border: none;
+    }
+    .card-header {
+        background-color: #f8f9fa !important;
+        color: #000 !important;
+    }
+    .btn,
+    .navbar,
+    footer {
+        display: none !important;
+    }
+}

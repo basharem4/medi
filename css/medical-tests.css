@@ -1,0 +1,108 @@
+.test-upload-area {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.test-upload-area .dropzone {
+    border: 2px dashed #dee2e6;
+    border-radius: 6px;
+    background: white;
+    min-height: 150px;
+    padding: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.test-upload-area .dropzone:hover {
+    border-color: #1f97d4;
+}
+
+.test-upload-area .dz-message {
+    text-align: center;
+    margin: 2em 0;
+}
+
+.test-upload-area .dz-message i {
+    font-size: 2.5em;
+    color: #6c757d;
+    margin-bottom: 15px;
+}
+
+.test-upload-area .dz-message p {
+    margin: 0;
+    color: #6c757d;
+}
+
+.test-upload-area .btn {
+    background: #1f97d4;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.test-upload-area .btn:hover {
+    background: #1a7fb2;
+}
+
+
+/* Test titles styling */
+
+.single-cat h5 {
+    font-size: 2rem !important;
+    font-weight: 600 !important;
+    margin-bottom: 1.5rem !important;
+    color: #2d3436 !important;
+    transition: color 0.3s ease;
+}
+
+.single-cat h5:hover {
+    color: #6ab04c !important;
+}
+
+
+/* Responsive styling */
+
+@media (max-width: 768px) {
+    .single-cat h5 {
+        font-size: 1.75rem !important;
+    }
+}
+
+@media (max-width: 576px) {
+    .single-cat h5 {
+        font-size: 1.5rem !important;
+    }
+}
+
+.dropzone {
+    border: 2px dashed #6ab04c;
+    border-radius: 5px;
+    background: white;
+    min-height: 150px;
+    padding: 20px;
+    text-align: center;
+}
+
+.analyze-btn {
+    background-color: #6ab04c;
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.analyze-btn:hover {
+    background-color: #5a9d3d;
+    color: white;
+}
+
+.analyze-btn:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+}
